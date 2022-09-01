@@ -1,4 +1,7 @@
-# Clips
+# Clips - WIP!
+
+Please note that this app is not finished. Hold tight while I add new features daily
+__________________________________________________________________________________________________________
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
